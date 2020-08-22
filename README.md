@@ -5,9 +5,7 @@ OAF is a project to allow cameras on tripods to Identify Subjects and Follow the
 > :warning: **This Project Is in the Early Stages Of Develepment** It is currently not recommended to use it in a production environment
 
 ## Installation
-
-run the command
-`git clone https://github.com/tech-is-awesome/OpenAutoFollow && cd OpenAutoFollow` then to start the program run `./oaf.py -m normal` (if that doesnt work see the [Troublesooting Section](https://www.github.com/OpenAutoFollow/wiki/Troubleshooting) of the wiki)
+Download and run the `inst-oaf.sh` and run it.
 
 ## How to use
 
